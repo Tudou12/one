@@ -1,0 +1,2 @@
+INSERT INTO `voluntary`(`id`, `name`, `age`, `sex`, `type`, `activity_time`, `activity_name`, `contact`, `user_id`, `details`, `phone`) VALUES (1, '豆子', 20, '男', '社区服务', '2020-03-21 00:00:00', NULL, '12312312312', NULL, NULL, NULL);
+INSERT INTO `voluntary`(`id`, `name`, `age`, `sex`, `type`, `activity_time`, `activity_name`, `contact`, `user_id`, `details`, `phone`) VALUES (2, '去去去', 12, '男', '运动', '2019-02-22 00:00:00', NULL, '123123123', NULL, NULL, NULL);
